@@ -1,10 +1,10 @@
 {
- "name": "Endpoint Radar",
- "short_name": "Radar",
+ "name": "The Endpoint Herald",
+ "short_name": "Herald",
  "start_url": "./",
  "display": "standalone",
- "background_color": "#0e1b2e",
- "theme_color": "#0e1b2e",
+ "background_color": "#f1ebdd",
+ "theme_color": "#f1ebdd",
  "icons": [
   {
    "src": "icon-192.png",
